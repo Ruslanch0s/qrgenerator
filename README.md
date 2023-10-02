@@ -1,3 +1,7 @@
+## Пример использования
+хабр - https://habr.com/ru/articles/652003/
+vc - https://vc.ru/tribuna/365572-nadoelo-pokazyvat-unylye-qr-kody-unylym-administratoram-i-ohrannikam-priobodri-etu-nudyatinu
+
 ## Quickstart
 
 ### Установка зависимостей
